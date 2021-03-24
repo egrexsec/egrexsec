@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EJAlexander
+- 👋 Hi, I’m mell0wx (Mel-Oh)
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on ethical hacking
