@@ -1,8 +1,5 @@
 - 👋 Hi, I’m mell0wx (Mel-Oh)
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on ethical hacking
-- 📫 How to reach me twitch.tv/mell0wx
+- Constantly learning and progressing to enhance my security prowess
 
 <!---
 EJAlexander/EJAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
