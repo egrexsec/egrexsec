@@ -31,3 +31,5 @@ I'm passionate about bridging the gap between offensive and defensive security. 
 `Threat Hunting` • `Incident Response` • `SIEM (Splunk, ELK)` • `Python` • `Bash` • `Red/Blue Team Collaboration` • `MITRE ATT&CK`
 
 ---
+
+![Mell0wx GitHub stats](https://github-readme-stats.vercel.app/api?username=mell0wx&show_icons=true&theme=dark)
