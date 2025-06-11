@@ -20,7 +20,7 @@ I'm passionate about bridging the gap between offensive and defensive security. 
 - 🎯 **Emulation Tools:** Atomic Red Team, Caldera, MITRE ATT&CK
 - 👁️ **Objective:** Generate attack telemetry and build high-fidelity detections
 
-📁 [View Project Repository »](https://github.com/mell0wx/purple-team-lab)
+📁 [View Project Repository »](https://github.com/mell0wx/purple-team-lab) ... Currently Private until operational
 
 ---
 
