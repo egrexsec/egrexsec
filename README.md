@@ -22,7 +22,7 @@ I'm passionate about bridging the gap between offensive and defensive security. 
 
 📁 [View Project Repository »](https://github.com/mell0wx/purple-team-lab) ... Currently Private until operational
 
-![tryhackme stats](https://raw.githubusercontent.com/mell0wx/mell0wx/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/mell0wx/mell0wx/main/assets/thm_propic.png)
 
 ---
 
