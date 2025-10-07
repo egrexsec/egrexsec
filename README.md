@@ -20,4 +20,4 @@ I'm passionate about bridging the gap between offensive and defensive security. 
 
 ---
 
-![egrexsec GitHub stats](https://github-readme-stats.vercel.app/api?username=mell0wx&show_icons=true&theme=dark)
+![egrexsec GitHub stats](https://github-readme-stats.vercel.app/api?username=egrexsec&show_icons=true&theme=dark)
