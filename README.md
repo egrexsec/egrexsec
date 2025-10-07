@@ -10,7 +10,7 @@ I'm passionate about bridging the gap between offensive and defensive security. 
 
 ---
 
-![tryhackme stats](https://raw.githubusercontent.com/mell0wx/mell0wx/main/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/egrexsec/egrexsec/main/assets/thm_propic.png)
 
 ---
 
