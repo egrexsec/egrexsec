@@ -1,4 +1,4 @@
-# 👋 Hi, I'm mell0wx
+# 👋 Hi, I'm egrexsec
 
 🎯 **Cybersecurity Professional** | Purple Teaming | Threat Emulation | Detection Engineering
 
@@ -10,18 +10,6 @@ I'm passionate about bridging the gap between offensive and defensive security. 
 
 ---
 
-## 🚀 Current Project
-
-### 🧪 Purple Team Lab: Threat Emulation & SIEM Detection
-
-🔧 Building a lab to simulate real-world attacks and observe them in a SIEM environment.
-
-- ✅ **SIEM Options:** ELK Stack or Splunk
-- 🎯 **Emulation Tools:** Atomic Red Team, Caldera, MITRE ATT&CK
-- 👁️ **Objective:** Generate attack telemetry and build high-fidelity detections
-
-📁 [View Project Repository »](https://github.com/mell0wx/purple-team-lab) ... Currently Private until operational
-
 ![tryhackme stats](https://raw.githubusercontent.com/mell0wx/mell0wx/main/assets/thm_propic.png)
 
 ---
@@ -32,4 +20,4 @@ I'm passionate about bridging the gap between offensive and defensive security. 
 
 ---
 
-![Mell0wx GitHub stats](https://github-readme-stats.vercel.app/api?username=mell0wx&show_icons=true&theme=dark)
+![egrexsec GitHub stats](https://github-readme-stats.vercel.app/api?username=mell0wx&show_icons=true&theme=dark)
