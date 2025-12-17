@@ -1,6 +1,6 @@
 # 👋 Hi, I'm egrexsec
 
-🎯 **Cybersecurity Professional** | Purple Teaming | Threat Emulation | Detection Engineering
+🎯 **Cybersecurity Professional** | Digital Forensics| Threat Hunting | Insider Threat | Detection Engineering
 
 ---
 
