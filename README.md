@@ -1,4 +1,4 @@
-# 👋 Hi, I'm egrexsec
+# 👋 Hi, I'm mell0wx
 
 Cybersecurity professional focused on incident response, threat hunting, detection engineering, and practical security operations work. Current interests also include digital forensics, insider threat, and the path into cloud security.
 
@@ -39,13 +39,5 @@ A few themes represented in current and recent work:
 - Detection and lab development through `detlab` and related security project iteration.
 - Forensics research and tooling exploration using platforms and utilities such as plaso, bulk_extractor, Sleuth Kit, and related investigation workflows.
 - Hands-on infrastructure work through homelab systems and operational documentation practices.[1]
-
-***
-
-## 🤝 Professional Profile
-
-Based in Charlotte, North Carolina, with hands-on experience across security operations and adjacent technical environments, including church A/V leadership and systems responsibility.[2]
-
-This profile is built to showcase credible, practical security work, continuous growth, and a strong bias toward building things that are useful, testable, and real.
 
 ***
