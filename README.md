@@ -71,4 +71,3 @@ Actively deepening capability in:
 
 - Website: [mell0wx.tech](https://mell0wx.tech)
 - GitHub: [@egrexsec](https://github.com/egrexsec)
-- HackerOne alias: `mell0wx@wearehackerone.com`
