@@ -4,6 +4,12 @@ Cybersecurity professional focused on incident response, threat hunting, detecti
 
 ***
 
+## 🧪 TryHackMe
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mell0wx.png)
+
+***
+
 ## 🔍 About Me
 
 Security work is strongest when it is grounded in hands-on practice, clear documentation, and repeatable workflows. Current work and projects center on investigation-minded security, lab building, and translating technical findings into useful detections and operational improvements.
