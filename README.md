@@ -12,8 +12,8 @@ I build practical, evidence-driven workflows for security operations, lab valida
    X32/M32 scene documentation tool for church AV teams, venue engineers, and volunteer handoff workflows.
 3. [cybersecurity-playbook](https://github.com/egrexsec/cybersecurity-playbook)  
    Reusable markdown-first detection, hunting, and investigation content that complements DetLab-DAC.
-4. [mell0wx-brand-hq-pro](https://github.com/egrexsec/mell0wx-brand-hq-pro)  
-   Personal portfolio and publishing site for security projects, homelab work, case studies, and technical writing.
+4. [mell0wx.tech](https://mell0wx.tech)  
+   Portfolio, consulting, case studies, technical writing, and project showcase.
 
 ## Focus areas
 
