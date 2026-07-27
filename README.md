@@ -1,32 +1,31 @@
 # Hi, I'm mell0wx
 
-Cybersecurity practitioner focused on **incident response, detection engineering, DFIR, threat hunting, cloud security, homelab infrastructure, and church technology tooling**.
+Security engineer and systems operator focused on **detection engineering, incident response, DFIR, threat hunting, security automation, and resilient self-hosted infrastructure**.
 
-I build practical, evidence-driven workflows for security operations, lab validation, documentation, and operator handoff.
+I build evidence-driven workflows: controlled execution, observable telemetry, tested analytics, bounded automation, cleanup, and public-safe documentation.
 
-## Featured work
+## Security engineering ecosystem
 
-1. [DetLab-DAC](https://github.com/egrexsec/DetLab-DAC)  
-   Documentation-first detection engineering platform for writing, comparing, and publishing multi-language detection content.
-2. [x32-m32-routeview](https://github.com/egrexsec/x32-m32-routeview)  
-   X32/M32 scene documentation tool for church AV teams, venue engineers, and volunteer handoff workflows.
-3. [cybersecurity-playbook](https://github.com/egrexsec/cybersecurity-playbook)  
-   Reusable markdown-first detection, hunting, and investigation content that complements DetLab-DAC.
-4. [mell0wx.tech](https://mell0wx.tech)  
-   Portfolio, consulting, case studies, technical writing, and project showcase.
+One validated lifecycle connects the flagship repositories:
 
-## Focus areas
+1. **[cybersecurity-playbook](https://github.com/egrexsec/cybersecurity-playbook)** — canonical Sigma rules, positive/negative fixtures, generated queries, investigations, and hash-verifiable validation packs.
+2. **[DetLab-DAC](https://github.com/egrexsec/DetLab-DAC)** — bounded multi-backend Sigma conversion, comparison, provenance, and export.
+3. **[mayuri-purple-team-lab](https://github.com/egrexsec/mayuri-purple-team-lab)** — sanitized Proxmox lab architecture and live-validation evidence.
+4. **[mell0wx.tech](https://mell0wx.tech/case-studies/purple-team-lab)** — recruiter-facing case studies that preserve evidence and limitation boundaries.
 
-- incident response and threat hunting
-- detection engineering and analytic validation
-- DFIR and structured investigation workflows
-- cloud security readiness and operational tooling
-- homelab infrastructure and security-first automation
-- church technology and AV documentation workflows
+Start with the **[Validated PowerShell Detection Lifecycle v1](https://github.com/egrexsec/cybersecurity-playbook/tree/main/detections/packs/validated-powershell-lifecycle-v1)**: one controlled PowerShell behavior traced through telemetry, Sigma, four positive fixtures, five negative fixtures, generated Splunk/Elastic artifacts, and a sanitized investigation-case result.
 
-## Archived / learning projects
+## Released product
 
-- [Moses](https://github.com/egrexsec/Moses) — archived local stem-separation workflow preserved as a learning and portfolio reference.
+**[X32/M32 RouteView v1.0.0](https://github.com/egrexsec/x32-m32-routeview/releases/tag/v1.0.0)** turns complex Behringer X32 and Midas M32 scene routing into a reviewable operational view for troubleshooting and volunteer handoff.
+
+## What I optimize for
+
+- detections backed by positive, negative, and live evidence;
+- ATT&CK mapping that reflects tested behavior rather than slideware;
+- automation with explicit bounds, rollback, and truthful failure states;
+- public artifacts that prove the work without exposing operational secrets;
+- infrastructure changes that are staged, reversible, and validated after deployment.
 
 ## Connect
 
