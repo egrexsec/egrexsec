@@ -38,10 +38,6 @@ Start with:
 - **[Investigation portfolio](https://github.com/egrexsec/cybersecurity-playbook/tree/main/investigations)**
 - **[DFIR capability library](https://github.com/egrexsec/cybersecurity-playbook/tree/main/dfir)**
 
-### [DetLab-DAC](https://github.com/egrexsec/DetLab-DAC)
-
-Supporting detection-content tooling for working with Sigma and backend-specific output while preserving provenance and reviewability.
-
 ### Historical Mayuri validation work
 
 The Mayuri lab was decommissioned in October 2026 after serving as the environment for live Windows detection and purple-team validation.
