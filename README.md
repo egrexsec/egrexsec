@@ -1,31 +1,104 @@
 # Hi, I'm mell0wx
 
-Security engineer and systems operator focused on **detection engineering, incident response, DFIR, threat hunting, security automation, and resilient self-hosted infrastructure**.
+Cybersecurity practitioner focused on **incident response, threat hunting, DFIR, cloud incident response, and supporting detection engineering**.
 
-I build evidence-driven workflows: controlled execution, observable telemetry, tested analytics, bounded automation, cleanup, and public-safe documentation.
+I build evidence-driven workflows that move from telemetry to investigation: collect the right artifacts, reconstruct timelines, test hypotheses, document findings, and turn lessons learned into reusable detections and response guidance.
 
-## Security engineering ecosystem
+## Current focus
 
-One validated lifecycle connects the flagship repositories:
+- **Incident response & threat hunting**
+- **Windows and identity investigations**
+- **AWS / Cloud IR**
+- **DFIR workflows and timeline reconstruction**
+- **Detection engineering as a supporting capability**
+- **Security automation that stays bounded, reviewable, and evidence-backed**
 
-1. **[cybersecurity-playbook](https://github.com/egrexsec/cybersecurity-playbook)** — canonical Sigma rules, positive/negative fixtures, generated queries, investigations, and hash-verifiable validation packs.
-2. **[DetLab-DAC](https://github.com/egrexsec/DetLab-DAC)** — bounded multi-backend Sigma conversion, comparison, provenance, and export.
-3. **[mayuri-purple-team-lab](https://github.com/egrexsec/mayuri-purple-team-lab)** — sanitized Proxmox lab architecture and live-validation evidence.
-4. **[mell0wx.tech](https://mell0wx.tech/case-studies/purple-team-lab)** — recruiter-facing case studies that preserve evidence and limitation boundaries.
+## Featured security work
 
-Start with the **[Validated PowerShell Detection Lifecycle v1](https://github.com/egrexsec/cybersecurity-playbook/tree/main/detections/packs/validated-powershell-lifecycle-v1)**: one controlled PowerShell behavior traced through telemetry, Sigma, four positive fixtures, five negative fixtures, generated Splunk/Elastic artifacts, and a sanitized investigation-case result.
+### [cybersecurity-playbook](https://github.com/egrexsec/cybersecurity-playbook)
 
-## Released product
+My primary security portfolio and investigation knowledge base.
 
-**[X32/M32 RouteView v1.0.0](https://github.com/egrexsec/x32-m32-routeview/releases/tag/v1.0.0)** turns complex Behringer X32 and Midas M32 scene routing into a reviewable operational view for troubleshooting and volunteer handoff.
+It includes:
+
+- investigation workflows across endpoint, identity, network, and cloud
+- **15 historically live-validated Windows scenarios**
+- **15 canonical Sigma rules**
+- **79 positive/negative fixtures**
+- threat-hunting hypotheses and validated detection content
+- DFIR methods and evidence-handling workflows
+- AWS CloudTrail investigation notes and case studies
+- generated Splunk and Elastic queries
+- sanitized validation evidence and case documentation
+
+Start with:
+
+- **[Flaws2.cloud Defender — AWS Cloud IR case study](https://github.com/egrexsec/cybersecurity-playbook/tree/main/case-studies/aws/flaws2-defender)**
+- **[Validated PowerShell Detection Lifecycle v1](https://github.com/egrexsec/cybersecurity-playbook/tree/main/detections/packs/validated-powershell-lifecycle-v1)**
+- **[Investigation portfolio](https://github.com/egrexsec/cybersecurity-playbook/tree/main/investigations)**
+- **[DFIR capability library](https://github.com/egrexsec/cybersecurity-playbook/tree/main/dfir)**
+
+### [DetLab-DAC](https://github.com/egrexsec/DetLab-DAC)
+
+Supporting detection-content tooling for working with Sigma and backend-specific output while preserving provenance and reviewability.
+
+### Historical Mayuri validation work
+
+The Mayuri lab was decommissioned in October 2026 after serving as the environment for live Windows detection and purple-team validation.
+
+The infrastructure is no longer active, but its sanitized validation evidence and technical history remain preserved in the portfolio rather than being presented as current infrastructure.
+
+## How I approach investigations
+
+```text
+question / alert
+      ↓
+scope and hypotheses
+      ↓
+collect evidence
+      ↓
+build timeline
+      ↓
+correlate endpoint / identity / cloud activity
+      ↓
+determine findings and root cause
+      ↓
+containment / remediation guidance
+      ↓
+detection and visibility improvements
+```
+
+The goal is not just to produce an alert or solve a lab. It is to understand **what happened, how the evidence supports it, what remains uncertain, and what should improve afterward**.
+
+## Cloud IR
+
+Current AWS work includes:
+
+- AWS CLI investigation workflows
+- CloudTrail retrieval from S3
+- PowerShell + `jq` analysis
+- timeline construction
+- IAM / STS pivots
+- credential-abuse investigation
+- AWS resource-policy review
+- understanding when Athena becomes the better query model at scale
+
+I am continuing to deepen cloud investigation and DFIR skills through bounded labs, public datasets, and structured case studies.
+
+## Other engineering work
+
+### [X32/M32 RouteView](https://github.com/egrexsec/x32-m32-routeview)
+
+A utility that turns Behringer X32 / Midas M32 routing data into a reviewable operational view for troubleshooting and handoff.
 
 ## What I optimize for
 
-- detections backed by positive, negative, and live evidence;
-- ATT&CK mapping that reflects tested behavior rather than slideware;
-- automation with explicit bounds, rollback, and truthful failure states;
-- public artifacts that prove the work without exposing operational secrets;
-- infrastructure changes that are staged, reversible, and validated after deployment.
+- evidence before conclusions
+- timelines and correlation over isolated alerts
+- detections backed by positive and negative testing
+- public artifacts that demonstrate the work without exposing sensitive details
+- automation with explicit safety boundaries and truthful failure states
+- documentation that another analyst can actually use
 
 ## Connect
 
