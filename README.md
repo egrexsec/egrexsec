@@ -2,7 +2,7 @@
 
 Cybersecurity practitioner focused on **incident response, threat hunting, DFIR, cloud incident response, and supporting detection engineering**.
 
-I build evidence-driven workflows that move from telemetry to investigation: collect the right artifacts, reconstruct timelines, test hypotheses, document findings, and turn lessons learned into reusable detections and response guidance.
+My work centers on turning telemetry into defensible investigations: scoping activity, collecting the right evidence, reconstructing timelines, testing hypotheses, documenting findings, and feeding lessons learned back into detection and response.
 
 ## Current focus
 
@@ -11,40 +11,38 @@ I build evidence-driven workflows that move from telemetry to investigation: col
 - **AWS / Cloud IR**
 - **DFIR workflows and timeline reconstruction**
 - **Detection engineering as a supporting capability**
-- **Security automation that stays bounded, reviewable, and evidence-backed**
+- **Security automation with clear validation and safety boundaries**
 
 ## Featured security work
 
-### [cybersecurity-playbook](https://github.com/egrexsec/cybersecurity-playbook)
+### [cybersecurity-playbook](https://github.com/mell0wx/cybersecurity-playbook)
 
-My primary security portfolio and investigation knowledge base.
+My primary public security portfolio and investigation knowledge base.
 
 It includes:
 
-- investigation workflows across endpoint, identity, network, and cloud
-- **15 historically live-validated Windows scenarios**
-- **15 canonical Sigma rules**
-- **79 positive/negative fixtures**
-- threat-hunting hypotheses and validated detection content
+- endpoint, identity, network, and cloud investigation workflows
+- Sigma detections with positive and negative validation material
+- threat-hunting hypotheses and detection-development work
 - DFIR methods and evidence-handling workflows
 - AWS CloudTrail investigation notes and case studies
 - generated Splunk and Elastic queries
-- sanitized validation evidence and case documentation
+- sanitized validation evidence and technical documentation
 
-Start with:
+Recommended starting points:
 
-- **[Flaws2.cloud Defender — AWS Cloud IR case study](https://github.com/egrexsec/cybersecurity-playbook/tree/main/case-studies/aws/flaws2-defender)**
-- **[Validated PowerShell Detection Lifecycle v1](https://github.com/egrexsec/cybersecurity-playbook/tree/main/detections/packs/validated-powershell-lifecycle-v1)**
-- **[Investigation portfolio](https://github.com/egrexsec/cybersecurity-playbook/tree/main/investigations)**
-- **[DFIR capability library](https://github.com/egrexsec/cybersecurity-playbook/tree/main/dfir)**
+- **[Flaws2.cloud Defender — AWS Cloud IR case study](https://github.com/mell0wx/cybersecurity-playbook/tree/main/case-studies/aws/flaws2-defender)**
+- **[Validated PowerShell Detection Lifecycle](https://github.com/mell0wx/cybersecurity-playbook/tree/main/detections/packs/validated-powershell-lifecycle-v1)**
+- **[Investigation portfolio](https://github.com/mell0wx/cybersecurity-playbook/tree/main/investigations)**
+- **[DFIR capability library](https://github.com/mell0wx/cybersecurity-playbook/tree/main/dfir)**
 
 ### Historical Mayuri validation work
 
-The Mayuri lab was decommissioned in October 2026 after serving as the environment for live Windows detection and purple-team validation.
+Mayuri was a Windows-focused lab used for detection validation and purple-team exercises before being decommissioned.
 
-The infrastructure is no longer active, but its sanitized validation evidence and technical history remain preserved in the portfolio rather than being presented as current infrastructure.
+The infrastructure is no longer active. Sanitized evidence and technical history are preserved in the cybersecurity playbook as historical validation material rather than presented as current infrastructure.
 
-## How I approach investigations
+## Investigation approach
 
 ```text
 question / alert
@@ -64,39 +62,41 @@ containment / remediation guidance
 detection and visibility improvements
 ```
 
-The goal is not just to produce an alert or solve a lab. It is to understand **what happened, how the evidence supports it, what remains uncertain, and what should improve afterward**.
+The goal is to understand **what happened, what the evidence supports, what remains uncertain, and what should improve afterward**.
 
 ## Cloud IR
 
-Current AWS work includes:
+Current AWS-focused work includes:
 
 - AWS CLI investigation workflows
-- CloudTrail retrieval from S3
-- PowerShell + `jq` analysis
+- CloudTrail retrieval and analysis
+- PowerShell and `jq` workflows
 - timeline construction
 - IAM / STS pivots
 - credential-abuse investigation
 - AWS resource-policy review
-- understanding when Athena becomes the better query model at scale
+- Athena-based CloudTrail analysis for larger datasets
 
-I am continuing to deepen cloud investigation and DFIR skills through bounded labs, public datasets, and structured case studies.
+I continue developing cloud investigation and DFIR skills through bounded labs, public datasets, and structured case studies rather than maintaining a standing cloud lab.
 
 ## Other engineering work
 
-### [X32/M32 RouteView](https://github.com/egrexsec/x32-m32-routeview)
+### [X32/M32 RouteView](https://github.com/mell0wx/x32-m32-routeview)
 
-A utility that turns Behringer X32 / Midas M32 routing data into a reviewable operational view for troubleshooting and handoff.
+A browser-based utility that turns Behringer X32 / Midas M32 scene files into readable routing documentation and production handoff guides.
 
-## What I optimize for
+It reflects a broader interest in building practical tools for real operational problems outside of cybersecurity.
+
+## Principles
 
 - evidence before conclusions
 - timelines and correlation over isolated alerts
 - detections backed by positive and negative testing
-- public artifacts that demonstrate the work without exposing sensitive details
-- automation with explicit safety boundaries and truthful failure states
-- documentation that another analyst can actually use
+- public artifacts that demonstrate work without exposing sensitive details
+- automation with explicit boundaries and truthful failure states
+- documentation another analyst can actually use
 
 ## Connect
 
 - Website: [mell0wx.tech](https://mell0wx.tech)
-- GitHub: [@egrexsec](https://github.com/egrexsec)
+- GitHub: [@mell0wx](https://github.com/mell0wx)
