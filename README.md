@@ -36,6 +36,8 @@ Recommended starting points:
 - **[Investigation portfolio](https://github.com/mell0wx/cybersecurity-playbook/tree/main/investigations)**
 - **[DFIR capability library](https://github.com/mell0wx/cybersecurity-playbook/tree/main/dfir)**
 
+> **Namespace direction:** `mell0wx` is my personal GitHub identity. **[egrexsec](https://github.com/egrexsec)** is the organization namespace for cybersecurity-focused work as projects are organized and moved there.
+
 ### Historical Mayuri validation work
 
 Mayuri was a Windows-focused lab used for detection validation and purple-team exercises before being decommissioned.
@@ -99,4 +101,5 @@ It reflects a broader interest in building practical tools for real operational 
 ## Connect
 
 - Website: [mell0wx.tech](https://mell0wx.tech)
-- GitHub: [@mell0wx](https://github.com/mell0wx)
+- Personal GitHub: [@mell0wx](https://github.com/mell0wx)
+- Cybersecurity organization: [@egrexsec](https://github.com/egrexsec)
